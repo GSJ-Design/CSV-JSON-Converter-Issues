@@ -1,7 +1,6 @@
 # CSV-JSON-Converter-Issues
 Features requests and issues board
 
-# CSV JSON Converter
 ## About
 Convert CSV data to JSON format and vice versa.  
 
